@@ -1,0 +1,29 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+body{
+  background-color: rgb(0,0,0);
+  font-family:cursive;
+  color:lightpink;
+}
+
+.title{
+  width: 800px;
+  text-align:center;
+  margin: 0 auto;
+}
+.title a{
+  color:plum;
+  position: absolute;
+}
+
+h1{
+  top: 400px;
+  font-size: 100px;
+  color:lightpink;
+}
